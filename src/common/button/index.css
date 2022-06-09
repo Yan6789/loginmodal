@@ -1,0 +1,16 @@
+.buttonGenal {
+  font: inherit;
+  font-weight: 500;
+  border: 1px solid #516f58;
+  background: #6d8b74;
+  color: white;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.button:hover,
+.button:active {
+  background: #7eab84;
+}

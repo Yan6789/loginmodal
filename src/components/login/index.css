@@ -1,0 +1,12 @@
+.login_button {
+  margin: 1rem;
+  position: fixed;
+  display: block;
+  right: 0;
+  top: 0;
+}
+
+.modal-content {
+  width: 80%;
+  margin-top: 2rem;
+}
